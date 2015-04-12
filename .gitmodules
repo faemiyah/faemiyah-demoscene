@@ -1,3 +1,24 @@
 [submodule "2002-08_4k-intro_xbox"]
 	path = 2002-08_4k-intro_xbox
 	url = https://github.com/trilkk/faemiyah-demoscene_2002-08_4k-intro_xbox.git
+[submodule "2003-08_4k-intro_ust_nap"]
+	path = 2003-08_4k-intro_ust_nap
+	url = https://github.com/trilkk/faemiyah-demoscene_2003-08_4k-intro_ust_nap.git
+[submodule "2004-08_4k-intro_pinp"]
+	path = 2004-08_4k-intro_pinp
+	url = https://github.com/trilkk/faemiyah-demoscene_2004-08_4k-intro_pinp.git
+[submodule "2005-07_32k-intro_origami"]
+	path = 2005-07_32k-intro_origami
+	url = https://github.com/trilkk/faemiyah-demoscene_2005-07_32k-intro_origami.git
+[submodule "2007-08_4k-intro_organica"]
+	path = 2007-08_4k-intro_organica
+	url = https://github.com/trilkk/faemiyah-demoscene_2007-08_4k-intro_organica.git
+[submodule "2008-08_4k-intro_stick_animation_engine_4000"]
+	path = 2008-08_4k-intro_stick_animation_engine_4000
+	url = https://github.com/trilkk/faemiyah-demoscene_2008-08_4k-intro_stick_animation_engine_4000.git
+[submodule "2009-08_4k-intro_swamp_fly"]
+	path = 2009-08_4k-intro_swamp_fly
+	url = https://github.com/trilkk/faemiyah-demoscene_2009-08_4k-intro_swamp_fly.git
+[submodule "2009-08_4k-graphics_solitary_confinement"]
+	path = 2009-08_4k-graphics_solitary_confinement
+	url = https://github.com/trilkk/faemiyah-demoscene_2009-08_4k-graphics_solitary_confinement.git
