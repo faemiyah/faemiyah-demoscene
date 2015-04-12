@@ -22,3 +22,24 @@
 [submodule "2009-08_4k-graphics_solitary_confinement"]
 	path = 2009-08_4k-graphics_solitary_confinement
 	url = https://github.com/trilkk/faemiyah-demoscene_2009-08_4k-graphics_solitary_confinement.git
+[submodule "2010-08_gamedev_orbital_bombardment"]
+	path = 2010-08_gamedev_orbital_bombardment
+	url = https://github.com/trilkk/faemiyah-demoscene_2010-08_gamedev_orbital_bombardment.git
+[submodule "2011-08_4k-intro_dirty_garden"]
+	path = 2011-08_4k-intro_dirty_garden
+	url = https://github.com/trilkk/faemiyah-demoscene_2011-08_4k-intro_dirty_garden.git
+[submodule "2013-08_4k-intro_yog-sothoth"]
+	path = 2013-08_4k-intro_yog-sothoth
+	url = https://github.com/trilkk/faemiyah-demoscene_2013-08_4k-intro_yog-sothoth.git
+[submodule "2014-03_16k-intro_lavos"]
+	path = 2014-03_16k-intro_lavos
+	url = https://github.com/trilkk/faemiyah-demoscene_2014-03_16k-intro_lavos.git
+[submodule "2014-04_1k-intro_hammasvagina"]
+	path = 2014-04_1k-intro_hammasvagina
+	url = https://github.com/trilkk/faemiyah-demoscene_2014-04_1k-intro_hammasvagina.git
+[submodule "2014-08_4k-intro_whisky_in_a_tube"]
+	path = 2014-08_4k-intro_whisky_in_a_tube/
+	url = https://github.com/trilkk/faemiyah-demoscene_2014-08_4k-intro_whisky_in_a_tube.git
+[submodule "2015-04_64k-intro_junamatkailuintro"]
+	path = 2015-04_64k-intro_junamatkailuintro
+	url = https://github.com/trilkk/faemiyah-demoscene_2015-04_64k-intro_junamatkailuintro.git
