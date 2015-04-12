@@ -37,9 +37,12 @@
 [submodule "2014-04_1k-intro_hammasvagina"]
 	path = 2014-04_1k-intro_hammasvagina
 	url = https://github.com/trilkk/faemiyah-demoscene_2014-04_1k-intro_hammasvagina.git
-[submodule "2014-08_4k-intro_whisky_in_a_tube"]
-	path = 2014-08_4k-intro_whisky_in_a_tube/
-	url = https://github.com/trilkk/faemiyah-demoscene_2014-08_4k-intro_whisky_in_a_tube.git
 [submodule "2015-04_64k-intro_junamatkailuintro"]
 	path = 2015-04_64k-intro_junamatkailuintro
 	url = https://github.com/trilkk/faemiyah-demoscene_2015-04_64k-intro_junamatkailuintro.git
+[submodule "2014-08_4k-intro_whisky_in_a_tube"]
+	path = 2014-08_4k-intro_whisky_in_a_tube
+	url = https://github.com/trilkk/faemiyah-demoscene_2014-08_4k-intro_whisky_in_a_tube.git
+[submodule "dnload"]
+	path = dnload
+	url = https://github.com/trilkk/dnload
