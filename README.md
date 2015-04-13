@@ -31,7 +31,7 @@ Authors: Trilkk
 #####Junamatkailuintro
 <a href="http://faemiyah.fi/demoscene/junamatkailuintro"><img src="https://raw.githubusercontent.com/trilkk/faemiyah-demoscene_2015-04_64k-intro_junamatkailuintro/master/screenshot_www.png" height="130em" align="right" /></a>
 Links: [download (.tar.xz)](http://faemiyah.fi/data/junamatkailuintro.tar.xz), [download (.zip)](http://faemiyah.fi/data/junamatkailuintro.zip), [video](http://faemiyah.fi/data/junamatkailuintro.mp4), [pouet](http://www.pouet.net/prod.php?which=65374)  
-Release: Revision_ _2015 wild compo, 11th place  
+Release: Revision 2015 wild compo, 11th place  
 Release platform: Raspberry Pi (Linux)  
 Ports: FreeBSD, Linux, OSX, Windows  
 Authors: collateralburger, TheFlash, Trilkk
@@ -51,7 +51,7 @@ Authors: Juippi, Trilkk
 #####Hammasvagina
 <a href="http://faemiyah.fi/demoscene/hammasvagina"><img src="https://raw.githubusercontent.com/trilkk/faemiyah-demoscene_2014-04_1k-intro_hammasvagina/master/screenshot_www.jpg" height="130em" align="right" /></a>
 Links: [download (.tar.xz)](http://faemiyah.fi/data/hammasvagina.tar.xz), [download (.zip)](http://faemiyah.fi/data/hammasvagina.zip), [html](https://raw.githubusercontent.com/trilkk/faemiyah-demoscene_2014-04_1k-intro_hammasvagina/master/hammasvagina_uncompressed.html), [youtube](https://www.youtube.com/watch?v=2FwDy1F7k1M), [pouet](http://www.pouet.net/prod.php?which=62991)  
-Release: Revision_ _2014 pc 4k compo, 11th place  
+Release: Revision 2014 pc 4k compo, 11th place  
 Release platform: Javascript, WebGL  
 Additional tools: Closure Compiler, [JsExe](http://adinpsz.org/)  
 Authors: Juippi, Trilkk
