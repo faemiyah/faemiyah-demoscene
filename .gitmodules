@@ -46,3 +46,6 @@
 [submodule "dnload"]
 	path = dnload
 	url = https://github.com/trilkk/dnload
+[submodule "2015-08_4k-intro_ghosts_of_mars"]
+	path = 2015-08_4k-intro_ghosts_of_mars
+	url = https://github.com/trilkk/faemiyah-demoscene_2015-08_4k-intro_ghosts_of_mars.git
