@@ -49,6 +49,3 @@
 [submodule "2015-08_4k-intro_ghosts_of_mars"]
 	path = 2015-08_4k-intro_ghosts_of_mars
 	url = git@github.com:faemiyah/faemiyah-demoscene_2015-08_4k-intro_ghosts_of_mars.git
-[submodule "2016-08_80k-intro_my_mistress_the_leviathan"]
-	path = 2016-08_80k-intro_my_mistress_the_leviathan
-	url = git@github.com:faemiyah/faemiyah-demoscene_2016-08_80k-intro_my_mistress_the_leviathan.git
