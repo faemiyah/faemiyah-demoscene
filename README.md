@@ -211,5 +211,5 @@ Authors: Juippi, Trilkk, Warma
 #### Awards
 
 **Yog-Sothoth**: [BitFellas best of 2013, PC 4k intro #3](http://www.bitfellas.org/e107_plugins/content/content.php?content.2842)  
-**Lavos**: [Bitfellas best of 2014, PC 64k intro #8](http://www.bitfellas.org/e107_plugins/content/content.php?content.2702)  
+**Lavos**: [BitFellas best of 2014, PC 64k intro #8](http://www.bitfellas.org/e107_plugins/content/content.php?content.2702)  
 **Ghosts of Mars**: [BitFellas best of 2015, PC 4k intro #5](http://www.bitfellas.org/e107_plugins/content/content.php?content.2842)  
