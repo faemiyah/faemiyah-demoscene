@@ -58,3 +58,6 @@
 [submodule "2018-03_4k-intro_adarkar_wastes"]
 	path = 2018-03_4k-intro_adarkar_wastes
 	url = git@github.com:faemiyah/faemiyah-demoscene_2018-03_4k-intro_adarkar_wastes.git
+[submodule "2018-08_40k-intro_cassini"]
+	path = 2018-08_40k-intro_cassini
+	url = git@github.com:faemiyah/faemiyah-demoscene_2018-08_40k-intro_cassini.git
