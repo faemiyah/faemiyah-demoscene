@@ -61,3 +61,6 @@
 [submodule "2018-08_40k-intro_cassini"]
 	path = 2018-08_40k-intro_cassini
 	url = git@github.com:faemiyah/faemiyah-demoscene_2018-08_40k-intro_cassini.git
+[submodule "ghostsyn"]
+	path = ghostsyn
+	url = git@github.com:Juippi/ghostsyn.git
