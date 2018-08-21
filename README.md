@@ -24,6 +24,15 @@ Authors: Trilkk
 
 ---
 
+##### ghostsyn
+<a href="http://faemiyah.fi/demoscene/ghostsyn"><img src="https://raw.githubusercontent.com/Juippi/ghostsyn/master/images/editor1.png" height="130em" align="right" /></a>
+Links: [download (.tar.xz)](http://faemiyah.fi/data/ghostsyn.tar.xz), [download (.zip)](http://faemiyah.fi/data/ghostsyn.zip), [documentation](ghostsyn), [pouet](http://www.pouet.net/prod.php?which=?????)  
+Original release: 2015-08  
+Supported platforms: FreeBSD, Linux  
+Authors: Juippi
+
+---
+
 #### Prods
 
 ---
