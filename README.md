@@ -16,7 +16,7 @@ Group members and common roles:
 
 ##### dnload
 <a href="http://faemiyah.fi/demoscene/dnload"><img src="https://raw.githubusercontent.com/trilkk/dnload/master/screenshot_www.png" height="130em" align="right" /></a>
-Links: [download (.tar.xz)](http://faemiyah.fi/data/dnload.tar.xz), [download (.zip)](http://faemiyah.fi/data/dnload.zip), [documentation](dnload), [pouet](http://www.pouet.net/prod.php?which=63505)  
+Links: [download (.tar.xz)](http://faemiyah.fi/data/dnload.tar.xz), [download (.zip)](http://faemiyah.fi/data/dnload.zip), [documentation](http://faemiyah.fi/demoscene/dnload), [pouet](http://www.pouet.net/prod.php?which=63505)  
 Original release: 2014-05  
 Supported platforms: FreeBSD, Linux  
 Secondary platforms: Windows  
@@ -26,8 +26,8 @@ Authors: Trilkk
 
 ##### ghostsyn
 <a href="http://faemiyah.fi/demoscene/ghostsyn"><img src="https://raw.githubusercontent.com/Juippi/ghostsyn/master/images/editor1.png" height="130em" align="right" /></a>
-Links: [download (.tar.xz)](http://faemiyah.fi/data/ghostsyn.tar.xz), [download (.zip)](http://faemiyah.fi/data/ghostsyn.zip), [documentation](ghostsyn), [pouet](http://www.pouet.net/prod.php?which=?????)  
-Original release: 2015-08  
+Links: [download (.tar.xz)](http://faemiyah.fi/data/ghostsyn.tar.xz), [download (.zip)](http://faemiyah.fi/data/ghostsyn.zip), [documentation](http://faemiyah.fi/demoscene/ghostsyn), [pouet](http://www.pouet.net/prod.php?which=?????)  
+Original release: 2016-08  
 Supported platforms: FreeBSD, Linux  
 Authors: Juippi
 
