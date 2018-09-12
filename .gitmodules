@@ -64,3 +64,6 @@
 [submodule "ghostsyn"]
 	path = ghostsyn
 	url = git@github.com:Juippi/ghostsyn.git
+[submodule "2018-09_512b-intro_grey_screen_with_no_music_ncurses"]
+	path = 2018-09_512b-intro_grey_screen_with_no_music_ncurses
+	url = git@github.com:trilkk/faemiyah-demoscene_2018-09_512b-intro_grey_screen_with_no_music_ncurses.git
