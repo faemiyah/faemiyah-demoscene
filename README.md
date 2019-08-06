@@ -38,7 +38,7 @@ Authors: Juippi
 ---
 
 #### Región de Magallanes
-<a href="https://faemiyah.fi/demoscene/region_de_magallanes"><img src="https://raw.githubusercontent.com/faemiyah/faemiyah-demoscene_2019-08_4k-intro_region_de_magellanes/master/screenshot_www.jpg" height="130em" align="right" /></a>
+<a href="http://faemiyah.fi/demoscene/region_de_magallanes"><img src="https://raw.githubusercontent.com/faemiyah/faemiyah-demoscene_2019-08_4k-intro_region_de_magallanes/master/screenshot_www.jpg" height="130em" align="right" /></a>
 Links: [download (.tar.xz)](http://faemiyah.fi/data/region_de_magellanes.tar.xz), [download (.zip)](http://faemiyah.fi/data/region_de_magellanes.zip), [video](http://faemiyah.fi/data/region_de_magellanes.mkv), [pouet](http://www.pouet.net/prod.php?which=82448)  
 Release: Assembly 2019 4k intro compo, 4th place  
 Release platform: Linux-ia32  
