@@ -67,7 +67,7 @@
 [submodule "2018-09_512b-intro_grey_screen_with_no_music_ncurses"]
 	path = 2018-09_512b-intro_grey_screen_with_no_music_ncurses
         url = git@github.com:trilkk/faemiyah-demoscene_2018-09_512b-intro_grey_screen_with_no_music_ncurses.git
-[submodule "2019-08-4k-intro_region_de_magallanes"]
+[submodule "2019-08_4k-intro_region_de_magallanes"]
 	path = 2019-08_4k-intro_region_de_magallanes
 	url = git@github.com:faemiyah/faemiyah-demoscene_2019-08_4k-intro_region_de_magallanes.git
 [submodule "2022-08_80k-intro_kerava"]
