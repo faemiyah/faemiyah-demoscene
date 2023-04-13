@@ -1,75 +1,100 @@
 [submodule "2002-08_4k-intro_xbox"]
 	path = 2002-08_4k-intro_xbox
 	url = git@github.com:faemiyah/faemiyah-demoscene_2002-08_4k-intro_xbox.git
+	branch = master
 [submodule "2003-08_4k-intro_ust_nap"]
 	path = 2003-08_4k-intro_ust_nap
 	url = git@github.com:faemiyah/faemiyah-demoscene_2003-08_4k-intro_ust_nap.git
+	branch = master
 [submodule "2004-08_4k-intro_pinp"]
 	path = 2004-08_4k-intro_pinp
 	url = git@github.com:faemiyah/faemiyah-demoscene_2004-08_4k-intro_pinp.git
+	branch = master
 [submodule "2005-07_32k-intro_origami"]
 	path = 2005-07_32k-intro_origami
 	url = git@github.com:faemiyah/faemiyah-demoscene_2005-07_32k-intro_origami.git
+	branch = master
 [submodule "2007-08_4k-intro_organica"]
 	path = 2007-08_4k-intro_organica
 	url = git@github.com:faemiyah/faemiyah-demoscene_2007-08_4k-intro_organica.git
+	branch = master
 [submodule "2008-08_4k-intro_stick_animation_engine_4000"]
 	path = 2008-08_4k-intro_stick_animation_engine_4000
 	url = git@github.com:faemiyah/faemiyah-demoscene_2008-08_4k-intro_stick_animation_engine_4000.git
+	branch = master
 [submodule "2009-08_4k-intro_swamp_fly"]
 	path = 2009-08_4k-intro_swamp_fly
 	url = git@github.com:faemiyah/faemiyah-demoscene_2009-08_4k-intro_swamp_fly.git
+	branch = master
 [submodule "2009-08_4k-graphics_solitary_confinement"]
 	path = 2009-08_4k-graphics_solitary_confinement
 	url = git@github.com:faemiyah/faemiyah-demoscene_2009-08_4k-graphics_solitary_confinement.git
+	branch = master
 [submodule "2010-08_gamedev_orbital_bombardment"]
 	path = 2010-08_gamedev_orbital_bombardment
 	url = git@github.com:faemiyah/faemiyah-demoscene_2010-08_gamedev_orbital_bombardment.git
+	branch = master
 [submodule "2011-08_4k-intro_dirty_garden"]
 	path = 2011-08_4k-intro_dirty_garden
 	url = git@github.com:faemiyah/faemiyah-demoscene_2011-08_4k-intro_dirty_garden.git
+	branch = master
 [submodule "2013-08_4k-intro_yog-sothoth"]
 	path = 2013-08_4k-intro_yog-sothoth
 	url = git@github.com:faemiyah/faemiyah-demoscene_2013-08_4k-intro_yog-sothoth.git
+	branch = master
 [submodule "2014-03_16k-intro_lavos"]
 	path = 2014-03_16k-intro_lavos
 	url = git@github.com:faemiyah/faemiyah-demoscene_2014-03_16k-intro_lavos.git
+	branch = master
 [submodule "2014-04_1k-intro_hammasvagina"]
 	path = 2014-04_1k-intro_hammasvagina
 	url = git@github.com:faemiyah/faemiyah-demoscene_2014-04_1k-intro_hammasvagina.git
+	branch = master
 [submodule "2015-04_64k-intro_junamatkailuintro"]
 	path = 2015-04_64k-intro_junamatkailuintro
 	url = git@github.com:faemiyah/faemiyah-demoscene_2015-04_64k-intro_junamatkailuintro.git
+	branch = master
 [submodule "2014-08_4k-intro_whisky_in_a_tube"]
 	path = 2014-08_4k-intro_whisky_in_a_tube
 	url = git@github.com:faemiyah/faemiyah-demoscene_2014-08_4k-intro_whisky_in_a_tube.git
+	branch = master
 [submodule "dnload"]
 	path = dnload
 	url = git@github.com:faemiyah/dnload
+	branch = master
 [submodule "2015-08_4k-intro_ghosts_of_mars"]
 	path = 2015-08_4k-intro_ghosts_of_mars
 	url = git@github.com:faemiyah/faemiyah-demoscene_2015-08_4k-intro_ghosts_of_mars.git
+	branch = master
 [submodule "2016-08_80k-intro_my_mistress_the_leviathan"]
 	path = 2016-08_80k-intro_my_mistress_the_leviathan
 	url = git@github.com:faemiyah/faemiyah-demoscene_2016-08_80k-intro_my_mistress_the_leviathan.git
+	branch = master
 [submodule "2017-08_4k-intro_primordial_soup"]
 	path = 2017-08_4k-intro_primordial_soup
 	url = git@github.com:faemiyah/faemiyah-demoscene_2017-08_4k-intro_primordial_soup.git
+	branch = master
 [submodule "2018-03_4k-intro_adarkar_wastes"]
 	path = 2018-03_4k-intro_adarkar_wastes
 	url = git@github.com:faemiyah/faemiyah-demoscene_2018-03_4k-intro_adarkar_wastes.git
+	branch = master
 [submodule "2018-08_40k-intro_cassini"]
 	path = 2018-08_40k-intro_cassini
 	url = git@github.com:faemiyah/faemiyah-demoscene_2018-08_40k-intro_cassini.git
+	branch = master
 [submodule "ghostsyn"]
 	path = ghostsyn
 	url = git@github.com:Juippi/ghostsyn.git
+	branch = master
 [submodule "2018-09_512b-intro_grey_screen_with_no_music_ncurses"]
 	path = 2018-09_512b-intro_grey_screen_with_no_music_ncurses
         url = git@github.com:trilkk/faemiyah-demoscene_2018-09_512b-intro_grey_screen_with_no_music_ncurses.git
+	branch = master
 [submodule "2019-08_4k-intro_region_de_magallanes"]
 	path = 2019-08_4k-intro_region_de_magallanes
 	url = git@github.com:faemiyah/faemiyah-demoscene_2019-08_4k-intro_region_de_magallanes.git
+	branch = master
 [submodule "2022-08_80k-intro_kerava"]
 	path = 2022-08_80k-intro_kerava
 	url = git@github.com:faemiyah/faemiyah-demoscene_2022-08_80k-intro_kerava.git
+	branch = master
