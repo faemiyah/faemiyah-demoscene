@@ -98,3 +98,6 @@
 	path = 2022-08_80k-intro_kerava
 	url = git@github.com:faemiyah/faemiyah-demoscene_2022-08_80k-intro_kerava.git
 	branch = master
+[submodule "2023-08_4k-intro_tomograph"]
+	path = 2023-08_4k-intro_tomograph
+	url = git@github.com:faemiyah/faemiyah-demoscene_2023-08_4k-intro_tomograph.git
