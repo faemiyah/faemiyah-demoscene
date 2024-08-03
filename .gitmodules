@@ -102,3 +102,7 @@
 	path = 2023-08_4k-intro_tomograph
 	url = git@github.com:faemiyah/faemiyah-demoscene_2023-08_4k-intro_tomograph.git
 	branch = master
+[submodule "2024-08_4k-intro_olkiluoto_3-2-1"]
+	path = 2024-08_4k-intro_olkiluoto_3-2-1
+	url = git@github.com:faemiyah/faemiyah-demoscene_2024-08_4k-intro_olkiluoto_3-2-1.git
+	branch = master
