@@ -37,7 +37,7 @@ Authors: Juippi
 
 ---
 
-#### Olkiluoto 3-2-1
+##### Olkiluoto 3-2-1
 <a href="http://faemiyah.fi/demoscene/olkiluoto_3-2-1"><img src="https://raw.githubusercontent.com/faemiyah/faemiyah-demoscene_2024-08_4k-intro_olkiluoto_3-2-1/master/screenshot_www.jpg" height="130em" align="right" /></a>
 Links: [download (.tar.xz)](http://faemiyah.fi/data/olkiluoto_3-2-1.tar.xz), [download (.zip)](http://faemiyah.fi/data/olkiluoto_3-2-1.zip), [video](http://faemiyah.fi/data/olkiluoto_3-2-1.mp4), [pouet](http://www.pouet.net/prod.php?which=97439)  
 Release: Assembly 2024 4k intro compo, 1st place  
@@ -47,7 +47,7 @@ Authors: Juippi, Trilkk
 
 ---
 
-#### Tomograph
+##### Tomograph
 <a href="http://faemiyah.fi/demoscene/tomograph"><img src="https://raw.githubusercontent.com/faemiyah/faemiyah-demoscene_2023-08_4k-intro_tomograph/master/screenshot_www.png" height="130em" align="right" /></a>
 Links: [download (.tar.xz)](http://faemiyah.fi/data/tomograph.tar.xz), [download (.zip)](http://faemiyah.fi/data/tomograph.zip), [video](http://faemiyah.fi/data/tomograph.mp4), [pouet](http://www.pouet.net/prod.php?which=94782)  
 Release: Assembly 2023 4k intro compo, 2nd place  
@@ -57,7 +57,7 @@ Authors: Juippi, Trilkk, Warma
 
 ---
 
-#### Kerava
+##### Kerava
 <a href="http://faemiyah.fi/demoscene/kerava"><img src="https://raw.githubusercontent.com/faemiyah/faemiyah-demoscene_2022-08_80k-intro_kerava/master/screenshot_www.jpg" height="130em" align="right" /></a>
 Links: [download (.tar.xz)](http://faemiyah.fi/data/kerava.tar.xz), [download (.zip)](http://faemiyah.fi/data/kerava.zip), [video](http://faemiyah.fi/data/kerava.mkv), [pouet](http://www.pouet.net/prod.php?which=91899)  
 Release: Assembly 2022 real wild compo, 1st place  
@@ -67,7 +67,7 @@ Authors: collateralburger, Trilkk, Warma
 
 ---
 
-#### Región de Magallanes
+##### Región de Magallanes
 <a href="http://faemiyah.fi/demoscene/region_de_magallanes"><img src="https://raw.githubusercontent.com/faemiyah/faemiyah-demoscene_2019-08_4k-intro_region_de_magallanes/master/screenshot_www.jpg" height="130em" align="right" /></a>
 Links: [download (.tar.xz)](http://faemiyah.fi/data/region_de_magallanes.tar.xz), [download (.zip)](http://faemiyah.fi/data/region_de_magallanes.zip), [video](http://faemiyah.fi/data/region_de_magallanes.mkv), [pouet](http://www.pouet.net/prod.php?which=82448)  
 Release: Assembly 2019 4k intro compo, 4th place  
@@ -77,7 +77,7 @@ Authors: Juippi, Trilkk, Warma
 
 ---
 
-#### grey screen with no music (ncurses)
+##### grey screen with no music (ncurses)
 <a href="http://faemiyah.fi/demoscene/grey_screen_with_no_music_ncurses"><img src="https://raw.githubusercontent.com/trilkk/faemiyah-demoscene_2018-09_512b-intro_grey_screen_with_no_music_ncurses/master/screenshot_www.png" height="130em" align="right" /></a>
 Links: [download (.tar.xz)](http://faemiyah.fi/data/grey_screen_with_no_music_ncurses.tar.xz), [download (.zip)](http://faemiyah.fi/data/grey_screen_with_no_music_ncurses.zip), [pouet](http://www.pouet.net/prod.php?which=78146)  
 Release: 2018-09-12 shits & giggles evening  
