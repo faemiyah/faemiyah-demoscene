@@ -35,6 +35,8 @@ Authors: Juippi
 
 #### Prods
 
+Playlist: <a href="https://www.youtube.com/playlist?list=PLi1E19VIwS2wcezEeKnjquFq3xfyu86qP">reverse chronological order</a>
+
 ---
 
 ##### Olkiluoto 3-2-1
