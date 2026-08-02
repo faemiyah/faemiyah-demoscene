@@ -110,3 +110,7 @@
 	path = 2026-08_1k-intro_logo_test
 	url = git@github.com:faemiyah/faemiyah-demoscene_2026-08_1k-intro_logo_test.git
 	branch = master
+[submodule "jeesi"]
+	path = jeesi
+	url = git@github.com:trilkk/jeesi.git
+	branch = master

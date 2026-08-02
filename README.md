@@ -33,6 +33,15 @@ Authors: Juippi
 
 ---
 
+##### jeesi
+<a href="http://faemiyah.fi/demoscene/jeesi"><img src="https://raw.githubusercontent.com/trilkk/jeesi/master/screenshot_www.png" height="130em" align="right" /></a>
+Links: [download (.tar.xz)](http://faemiyah.fi/data/jeesi.tar.xz), [download (.zip)](http://faemiyah.fi/data/jeesi.zip), [documentation](http://faemiyah.fi/demoscene/jeesi), [pouet](http://www.pouet.net/prod.php?which=?????)  
+Original release: 2026-08  
+Supported platforms: Python 3.x  
+Authors: Trilkk
+
+---
+
 #### Prods
 
 Playlist: <a href="https://www.youtube.com/playlist?list=PLi1E19VIwS2wcezEeKnjquFq3xfyu86qP">reverse chronological order</a>
