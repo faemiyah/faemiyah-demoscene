@@ -44,6 +44,7 @@ Playlist: <a href="https://www.youtube.com/playlist?list=PLi1E19VIwS2wcezEeKnjqu
 Links: [download (.tar.xz)](http://faemiyah.fi/data/logo_test.tar.xz), [download (.zip)](http://faemiyah.fi/data/logo_test.zip), [video](http://faemiyah.fi/data/logo_test.mkv), [pouet](http://www.pouet.net/prod.php?which=97439)  
 Release: Assembly 2026 4k intro compo, 11th place  
 Platform: JavaScript  
+Additional tools: jeesi.py, Closure Compiler  
 Authors: Juippi, Trilkk, Warma
 
 ---
