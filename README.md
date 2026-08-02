@@ -40,11 +40,13 @@ Playlist: <a href="https://www.youtube.com/playlist?list=PLi1E19VIwS2wcezEeKnjqu
 ---
 
 ##### logo\_test
-<a href="https://raw.githubusercontent.com/faemiyah/faemiyah-demoscene_2026-08_1k-intro_logo_test/master/screenshot_large.png"><img src="https://raw.githubusercontent.com/faemiyah/faemiyah-demoscene_2026-08_1k-intro_logo_test/master/screenshot_www.png" height="130em" align="right" /></a>
+<a href="http://faemiyah.fi/demoscene/logo_test"><img src="https://raw.githubusercontent.com/faemiyah/faemiyah-demoscene_2026-08_1k-intro_logo_test/master/screenshot_www.png" height="130em" align="right" /></a>
 Links: [download (.tar.xz)](http://faemiyah.fi/data/logo_test.tar.xz), [download (.zip)](http://faemiyah.fi/data/logo_test.zip), [video](http://faemiyah.fi/data/logo_test.mkv), [pouet](http://www.pouet.net/prod.php?which=97439)  
 Release: Assembly 2026 4k intro compo, 11th place  
 Platform: JavaScript  
 Authors: Juippi, Trilkk, Warma
+
+---
 
 ##### Olkiluoto 3-2-1
 <a href="http://faemiyah.fi/demoscene/olkiluoto_3-2-1"><img src="https://raw.githubusercontent.com/faemiyah/faemiyah-demoscene_2024-08_4k-intro_olkiluoto_3-2-1/master/screenshot_www.jpg" height="130em" align="right" /></a>
